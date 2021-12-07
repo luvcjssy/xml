@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">
+<channel>
+<item>
+  <g:id>3</g:id>
+  <g:title>BelongSCI1-Yellow-XS</g:title>
+  <g:description>test description</g:description>
+  <g:link>https://i.picsum.photos/id/866/200/300.jpg?hmac=rcadCENKh4rD6MAp6V_ma-AyWv641M4iiOpe1RyFHeI</g:link>
+  <g:image_link>https://i.picsum.photos/id/866/200/300.jpg?hmac=rcadCENKh4rD6MAp6V_ma-AyWv641M4iiOpe1RyFHeI</g:image_link>
+  <g:availability>In stock</g:availability>
+  <g:price>100.0</g:price>
+  <g:condition>New</g:condition>
+  <g:brand>Comestri</g:brand>
+</item>
+<item>
+  <g:id>4</g:id>
+  <g:title>BelongSCI1-Yellow-S</g:title>
+  <g:description>test description</g:description>
+  <g:link>https://i.picsum.photos/id/866/200/300.jpg?hmac=rcadCENKh4rD6MAp6V_ma-AyWv641M4iiOpe1RyFHeI</g:link>
+  <g:image_link>https://i.picsum.photos/id/866/200/300.jpg?hmac=rcadCENKh4rD6MAp6V_ma-AyWv641M4iiOpe1RyFHeI</g:image_link>
+  <g:availability>In stock</g:availability>
+  <g:price>100.0</g:price>
+  <g:condition>New</g:condition>
+  <g:brand>Comestri</g:brand>
+</item>
+</channel>
+</rss>
