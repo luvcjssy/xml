@@ -3,9 +3,9 @@
 <channel>
 <item>
   <g:id>3</g:id>
-  <g:title>BelongSCI1-Yellow-XS</g:title>
-  <g:description>test description</g:description>
-  <g:link>https://i.picsum.photos/id/866/200/300.jpg?hmac=rcadCENKh4rD6MAp6V_ma-AyWv641M4iiOpe1RyFHeI</g:link>
+  <title>BelongSCI1-Yellow-XS</title>
+  <description>test description</description>
+  <link>https://i.picsum.photos/id/866/200/300.jpg?hmac=rcadCENKh4rD6MAp6V_ma-AyWv641M4iiOpe1RyFHeI</link>
   <g:image_link>https://i.picsum.photos/id/866/200/300.jpg?hmac=rcadCENKh4rD6MAp6V_ma-AyWv641M4iiOpe1RyFHeI</g:image_link>
   <g:availability>In stock</g:availability>
   <g:price>100.0</g:price>
@@ -14,9 +14,9 @@
 </item>
 <item>
   <g:id>4</g:id>
-  <g:title>BelongSCI1-Yellow-S</g:title>
-  <g:description>test description</g:description>
-  <g:link>https://i.picsum.photos/id/866/200/300.jpg?hmac=rcadCENKh4rD6MAp6V_ma-AyWv641M4iiOpe1RyFHeI</g:link>
+  <title>BelongSCI1-Yellow-S</title>
+  <description>test description</description>
+  <link>https://i.picsum.photos/id/866/200/300.jpg?hmac=rcadCENKh4rD6MAp6V_ma-AyWv641M4iiOpe1RyFHeI</link>
   <g:image_link>https://i.picsum.photos/id/866/200/300.jpg?hmac=rcadCENKh4rD6MAp6V_ma-AyWv641M4iiOpe1RyFHeI</g:image_link>
   <g:availability>In stock</g:availability>
   <g:price>100.0</g:price>
