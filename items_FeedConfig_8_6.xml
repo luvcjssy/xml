@@ -2,26 +2,15 @@
 <rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">
 <channel>
 <item>
-  <g:id>3</g:id>
-  <title>BelongSCI1-Yellow-XS</title>
-  <description>test description</description>
-  <link>https://i.picsum.photos/id/866/200/300.jpg?hmac=rcadCENKh4rD6MAp6V_ma-AyWv641M4iiOpe1RyFHeI</link>
-  <g:image_link>https://i.picsum.photos/id/866/200/300.jpg?hmac=rcadCENKh4rD6MAp6V_ma-AyWv641M4iiOpe1RyFHeI</g:image_link>
+  <g:id>1</g:id>
+  <title>A-Frame Signs</title>
+  <description>Sleek and chic, business cards are the quintessential tool for the enthusiastic networker. Attract potential clients and grow brand recognition with show-stopping business cards at the lowest prices imaginable!</description>
+  <link>https://d3salonsolution.com/product/a-frame-signs/</link>
+  <g:image_link>https://d3salonsolution.com/wp-content/uploads/2021/08/bliss-nail-bar-walk-sign.png</g:image_link>
   <g:availability>In stock</g:availability>
-  <g:price>100.0</g:price>
+  <g:price>90.00</g:price>
   <g:condition>New</g:condition>
-  <g:brand>Comestri</g:brand>
-</item>
-<item>
-  <g:id>4</g:id>
-  <title>BelongSCI1-Yellow-S</title>
-  <description>test description</description>
-  <link>https://i.picsum.photos/id/866/200/300.jpg?hmac=rcadCENKh4rD6MAp6V_ma-AyWv641M4iiOpe1RyFHeI</link>
-  <g:image_link>https://i.picsum.photos/id/866/200/300.jpg?hmac=rcadCENKh4rD6MAp6V_ma-AyWv641M4iiOpe1RyFHeI</g:image_link>
-  <g:availability>In stock</g:availability>
-  <g:price>100.0</g:price>
-  <g:condition>New</g:condition>
-  <g:brand>Comestri</g:brand>
+  <g:brand>SALON SOLUTION</g:brand>
 </item>
 </channel>
 </rss>
